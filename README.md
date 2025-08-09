@@ -1,6 +1,6 @@
 # Olá, Sejam Todos Muito Bem-Vindos
 
-* Meu nome é João Gabriel Ferreira, tenho 17 anos e estou aprimorando minhas habilidades em HTML, CSS, MYSQL, PHP e daqui a pouco C Sharp.
+* Meu nome é João Gabriel Ferreira, tenho 18 anos e estou aprimorando minhas habilidades em HTML, CSS, MYSQL, PHP e daqui a pouco C Sharp.
 
 ![joaogabrielferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaogabrielferreira&show_icons=true&theme=highcontrast)
 
